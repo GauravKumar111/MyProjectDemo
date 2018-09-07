@@ -16,7 +16,7 @@
   ), &quot;Cold&quot;
 )</formula>
     <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
-    <label>Ratingyear</label>
+    <label>Ratingyear2018</label>
     <required>false</required>
     <type>Text</type>
     <unique>false</unique>
